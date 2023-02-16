@@ -3,7 +3,7 @@
             <div class="col-lg-4 about-card">
                 <h3 class="font-weight-light">Who am I ?</h3>
                 <span class="line mb-5"></span>
-                <h5 class="mb-3">A Web Designer / Backend Developer with irrelevent skills on Civil engineering : )</h5>
+                <h5 class="mb-3">A Web Designer / Backend Developer</h5>
                 <p class="mt-20">A passionate Web Developer with ability to learn and collaborate in rapidly changing enviroments and compositions. </p>
                 <button class="btn btn-outline-danger"><i class="icon-down-circled2 "></i><a href="/images/resume.pdf" download>Download My CV</a></button>
             </div>
@@ -18,9 +18,9 @@
                     <li><span>Address</span> :  Avinashi,Tirupur-641654 </li>
                 </ul>
                 <ul class="social-icons pt-3">
-                    <li class="social-item"><a class="social-link" href="https://www.linkedin.com/in/gowtham-ravi-0a6bb3215/"><i class="ti-linkedin" aria-hidden="true"></i></a></li>
+                    <li class="social-item"><a class="social-link" href="https://www.linkedin.com/in/gowtham-ravi02"><i class="ti-linkedin" aria-hidden="true"></i></a></li>
                     <li class="social-item"><a class="social-link" href="mailto:gowthamravi032@gmail.com"><i class="ti-google" aria-hidden="true"></i></a></li>
-                    <li class="social-item"><a class="social-link" href="https://www.instagram.com/e_x_c_u_s_e__me"><i class="ti-instagram" aria-hidden="true"></i></a></li>
+                    <li class="social-item"><a class="social-link" href="https://www.instagram.com/gowtham.ravi_"><i class="ti-instagram" aria-hidden="true"></i></a></li>
                     <li class="social-item"><a class="social-link" href="https://github.com/Gowtham0207o"><i class="ti-github" aria-hidden="true"></i></a></li>
                 </ul>  
             </div>

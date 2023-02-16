@@ -1,4 +1,4 @@
-  <!-- <section class="section" id="resume">
+ <section class="section" id="resume">
         <div class="container">
             <h2 class="mb-5"><span class="text-danger">My</span> Resume</h2>
             <div class="row">
@@ -12,15 +12,15 @@
                         </div>
                         <div class="card-body">
                             <h6 class="title text-danger">2017 - Present</h6>
-                            <P>UX Developer</P>
+                            <b><P>Civil engineering</P><b>
                             <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</P>
                             <hr>
                             <h6 class="title text-danger">2016 - 2017</h6>
-                            <P>Front-end Developer</P>
+                            <P>Backend developer</P>
                             <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</P>
                             <hr>
                             <h6 class="title text-danger">2015 - 2016</h6>
-                            <P>UX Designer</P>
+                            <P>Frontend develper</P>
                             <P class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</P>
                         </div>
                     </div>
@@ -109,7 +109,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>  
 
     <section class="section bg-dark py-s5">
         <div class="container text-center">

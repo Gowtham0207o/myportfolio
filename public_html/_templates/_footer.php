@@ -50,9 +50,9 @@
                         </div>
                         <ul class="social-icons pt-4">
                             <li class="social-item"><a class="social-link text-dark" href="https://github.com/Gowtham0207o"><i class="ti-github" aria-hidden="true"></i></a></li>
-                            <li class="social-item"><a class="social-link text-dark" href="www.linkedin.com/in/gowtham-ravi02"><i class="ti-linkedin" aria-hidden="true"></i></a></li>
+                            <li class="social-item"><a class="social-link text-dark" href="https://www.linkedin.com/in/gowtham-ravi02"><i class="ti-linkedin" aria-hidden="true"></i></a></li>
                             <li class="social-item"><a class="social-link text-dark" href="mailto:gowthamravi032@gmail.com"><i class="ti-google" aria-hidden="true"></i></a></li>
-                            <li class="social-item"><a class="social-link text-dark" href="https://www.instagram.com/e_x_c_u_s_e__me"><i class="ti-instagram" aria-hidden="true"></i></a></li>
+                            <li class="social-item"><a class="social-link text-dark" href="https://www.instagram.com/gowtham.ravi_"><i class="ti-instagram" aria-hidden="true"></i></a></li>
                         </ul> 
                     </div>
                 </div>
